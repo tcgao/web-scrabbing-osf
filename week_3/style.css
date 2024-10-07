@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+h1 {
+    margin: 30px 50px;
+}
+
+.cw-div {
+    width: 100%;
+    margin: 20px 10px;
+}
+
+.cw-p {
+    background-color: grey;
+    width: 31%;
+    height: 450px;
+    float: left;
+    margin: 10px 10px;
+    text-align: center;
+}
+
+.boldtext {
+    font-size: 33px;
+    font-weight: 750;
+    margin: 50px 0;
+}
