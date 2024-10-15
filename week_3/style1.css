@@ -1,0 +1,19 @@
+.sw-div {
+    background-color: gray;
+    width: 31%;
+    height: 400px;
+    float: left;
+    margin: 10px;
+}
+
+.boldtext {
+    font-size: 30px;
+    font-weight: 720;
+    text-align: center;
+    margin: 100px 0px 10px 0px;
+}
+
+.smalltext {
+    text-align: center;
+    font-size: 20px;
+}
